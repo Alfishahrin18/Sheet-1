@@ -1,5 +1,5 @@
 # Sheet-1
-Solved code problems of Sheet#2(Data type - Conditions)
+Solved code problems of Sheet#1(Data type - Conditions)
 
 ## Details:
 ### Course Code: CCE-2310
